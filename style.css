@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    background-color: #29abe2;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline-block;
+    font-size: 26px;
+    font-weight: bolder;
+    -webkit-text-stroke: 2px #000000; 
+    color: #f15a24;
+}
+
+form {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+input {
+    width: 120px;
+}
+
+#searchArea {
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#jokeArea {
+    font-size: 30px;
+    background-color: #29abe2;
+}
